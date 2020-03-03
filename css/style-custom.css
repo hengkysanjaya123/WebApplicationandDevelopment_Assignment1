@@ -588,6 +588,7 @@ a {
 	.navbar-nav {
 		position: fixed;
 		background: #2f1b0d;
+		left: 0;
 	}
 	
 	.menulang{
