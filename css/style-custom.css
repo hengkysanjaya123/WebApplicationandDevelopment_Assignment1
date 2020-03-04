@@ -27,6 +27,7 @@ a {
 
 .logostyle{
 	width:230px;
+	padding-top: 10px;
 }
 
 .content.brown {
@@ -530,7 +531,7 @@ a {
 
 @media(max-width:920px) {
 	.logostyle{
-		width:190px;
+		width:140px;
 		padding-top:10px;
 	}
 	
