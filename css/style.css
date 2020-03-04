@@ -1784,7 +1784,7 @@ span.m_2_prof {
 	height: 80px;
 	width: 100%;
     white-space:wrap;
-    text-overflow: ellipsis;*/
+    text-overflow: ellipsis;
     display: -webkit-box;
 	-webkit-box-orient: vertical;
 
