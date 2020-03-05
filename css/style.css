@@ -474,6 +474,10 @@ h3.tittle {
 
 .inner_sec_grids_info_w3ls {
 	margin-top: 4em;
+
+	min-height: 100%;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .banner-bottom,
@@ -1774,25 +1778,25 @@ span.m_2_prof {
 
 .events_info h4 {
 	margin: 8px 0;
-	height: 25px;
-	overflow:hidden; 
-    white-space:nowrap; 
-    text-overflow: ellipsis;
+	/*height: 25px;*/
+	/*overflow:hidden; */
+    /*white-space:nowrap; */
+    /*text-overflow: ellipsis;*/
 }
 
-.events_info p {
+/*.events_info p {
 	height: 80px;
 	width: 100%;
     white-space:wrap;
     text-overflow: ellipsis;
     display: -webkit-box;
 	-webkit-box-orient: vertical;
-
+*/
 	/* to specify the number of lines you want the text to run through... */
-	-webkit-line-clamp: 3;
+	/*-webkit-line-clamp: 3;*/
 	/* hide the overflowing text, i.e, texts that did not fit in to the box */
-	overflow: hidden;
-}
+	/*overflow: hidden;*/
+/*}*/
 
 .blog-grid h4 a {
 	font-size: 1.2em;
@@ -1820,7 +1824,7 @@ span.m_2_prof {
 
 .events_info {
 	padding: 2em 1em;
-	height: 210px;
+	/*height: 210px;*/
 }
 
 .blog-grid {
@@ -1836,10 +1840,10 @@ span.m_2_prof {
 	font-size: 1em;
 	font-weight: 600;
 	color: #241c7d;
-	height: 30px;
-	overflow:hidden; 
-    white-space:nowrap; 
-    text-overflow: ellipsis;
+	/*height: 30px;*/
+	/*overflow:hidden; */
+    /*white-space:nowrap; */
+    /*text-overflow: ellipsis;*/
 }
 
 .blog-grid.one {
